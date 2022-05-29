@@ -26,4 +26,4 @@ git clone git@github.com:Domeniqque/next-auth-full-example.git
 yarn && yarn dev
 ```
 
-After all, try sign in using the credentials in server [database.ts file](https://github.com/rocketseat-education/ignite-reactjs-auth-backend/blob/master/src/database.ts).
+Finally, try sign in using the credentials in server [database.ts file](https://github.com/rocketseat-education/ignite-reactjs-auth-backend/blob/master/src/database.ts).
